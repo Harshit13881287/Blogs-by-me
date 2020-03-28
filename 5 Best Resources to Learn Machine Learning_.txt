@@ -1,0 +1,142 @@
+﻿5 Best Resources to Learn Machine Learning:
+This blog contains all the resources to get started with machine learning as well as in-depth knowledge of the field
+I have divided this blog post into three sections: beginner ,intermediate,advanced . And I would share resources corresponding to each section on the basis of my experience.
+
+
+(A)Beginner:
+This section consists of all the prerequisites and basic knowledge that are required to get       started with machine learning like pythonic skills , knowledge about machine learning libraries ,  basic linear algebra,probability and statistics , calculus .
+
+
+1.Python skills:
+  Python skills will help you a lot if you are following the resources mentioned in this blog post 
+ which are all present in python language.
+  A.https://docs.python.org/3/tutorial/index.html:
+     These are the official tutorials by python.org which are present in latest version of 
+      Python. In this tutorials each and every brick of the wall named as Python are given  
+      with code snippets along with their explanation.
+      Trust me these are really beginner friendly docs provided by Python and you will 
+      really enjoy them.
+ B.https://www.hackerrank.com/:
+    After you have gone through the tutorials provided by Python.org , hackerrank is really 
+    great place to go and practice some of problems in order to get  hands on experience , 
+    where to use python data structures.
+    I want you to go this site and practice problems at the Python(Language Proficiency) 
+    section(here you will get to work at all the basic problems and get to code in python).
+2.Machine learning libraries:
+   This section will give you hands on some of the machine learning libraries used for 
+   Computation , visualizing purposes. But beware that this are not the exact ml libraries 
+   used for building the machine learning models but this are only starting point 
+    A.https://www.amazon.comhttps://www.coursera.org/learn/machine-learning/gp/offer-listing/1491912057/ref=dp_olp_all_mbc?ie=UTF8&co  ndition=all:
+ This link might look scary but this refers to “PYTHON DATA SCIENCE HANDBOOK”     
+ You don’t have to read this complete book at this stage but just ch-2, ch-3,ch-4 , that’s it.
+  ch-2(contains codes and explanations about Numpy) , ch-3(about Pandas),ch-4(about  python data visualization library MatPlotLib)
+B.Here i will be sharing all the official documentation of this libraries:
+  Numpy:https://numpy.org/devdocs/user/quickstart.html
+  Pandas:https://pandas.pydata.org/pandas-docs/stable/tutorials.html
+  Matplotlib:https://matplotlib.org/tutorials/index.html
+
+
+These are all great resources to get hands on with these libraries.
+
+
+3.Linear Algebra :
+ A.https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab:
+ A very nice visualization of linear algebra concepts is given in the videos,   which helps to understand some common operations.A very nice visualization of linear algebra concepts is given in the videos, which helps to understand some common operations.
+B.https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ :A lengthy but very comprehensive explanation of linear algebra concepts.
+
+
+4.Probabililty and statistics:
+A.https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo:
+This course by Harvard University(STAT-110) is a really great and comprehensive explanation of probability concepts .
+B.https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48:
+ This is a 6-blog series that will help you with the basics of probability and statistics.
+
+
+5.Machine learning Basics :
+
+
+At last i am coming to point of machine learning .
+A.Introduction to Machine Learning Course:
+This course gives you hands-on learning of the basics of Machine Learning, which will be useful later on.
+Estimated time to complete : 1 week
+
+
+B.https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413:
+Again don’t get scared by the link but this is the link to book “Introduction to machine learning with python” by o'reilly ,it is a great book to start with .(it contains theory as well as implementation part in python).
+ 
+
+
+
+
+
+
+(B)Intermediate :
+ This section is purely related to machine learning and i will be sharing some of great books and  
+ Courses to get into machine learning with theoretical and implementational aspects keeping in  the mind:
+1.https://www.coursera.org/learn/machine-learning:
+ This is one of the most famous course by Prof. Andrew Ng  , It is slightly long course but 
+ You will gain a lot from it , and this course programming assignments are in Matlab/octave but don’t skip them just because nowadays mostly Python is used 
+ For machine learning purposes because MATLAB is very similar to python numerical
+ Computing library Numpy so will be getting good hand’s on experience also from this course.
+
+
+2. https://www.amazon.com/gp/offer-listing/1491912057/ref=dp_olp_all_mbc?ie=UTF8&condition=all :
+Try to complete the 4th chapter of this book(Python Data Science Handbook ) , It covers all the necessary machine learning algorithms and their implementations with pros and cons corresponding to each machine learning algorithms.
+
+
+3.https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 :
+If you have gone through all the basic ml libraries which I have listed before and gone through the basic implementation part of the ml algos in python , then only shift to this book because this book is having its own pre-requisite . But the book is really great to get started with projects , all the codes are explained to great detail and book is written by Aurélien Géron who is a pioneer in this field.
+
+
+4.https://www.amazon.in/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0:
+This book will help you with the fundamentals of machine learning, covering all the major topics, side by side you can get started with the implementation of ML algorithms.
+
+
+5.http://neuralnetworksanddeeplearning.com/:
+I know this blog specifies the resources for machine learning but a very important for solving machine learning problems is through neural networks achieving the state of art.
+This book takes you through the basics of Deep Learning, covering what neural networks are as well as a thorough mathematical overview of the backpropagation algorithm. It also contains a comprehensive explanation of a Handwritten Digit Classifier written completely in NumPy.
+
+
+
+
+(C)Advanced :
+ This section consists of the resources for people who have gone through the concepts of machine learning and coded them in python , this section is somewhat more mathematical but that really helps a lot to be a pioneer in this field.This section also contains some resources for deep learning but don’t be scared from it , deep learning is just a technique for solving machine learning tasks in which we use different architecture of deep layers of neurons(it is just a different technique which gets very accurate results for solving many problems):
+1.https://www.coursera.org/specializations/deep-learning:
+This specialization is a must for learning the basic theory of deep learning and getting a first-hand experience of applying it to some amusing tasks.
+Estimated time to complete: 1–1.5 months
+
+
+2.https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738 :
+This book is completely theoretical so please be prepared before coming to this book  , but it really covers all the basic machine learning algorithms in depth.
+At least whenever you are comfortable with the basic probability and linear algebra try to go through this book and read machine learning algos in depth.
+
+
+3.http://cs229.stanford.edu/:
+ This course is really a maths heavy course so be prepared if you have done the previous andrew ng classic course from coursera then only come to this course which contains all the hidden details behind ml algos.
+
+
+4.https://www.deeplearningbook.org/ :
+Whether your target is to excel your field in ml or dl this book is must.
+This book is considered the bible of deep learning and gives a very thorough explanation of deep learning concepts.
+At least try to go through part -1 of this book . This book is also completely theoretical.
+Many concepts and questions asked in ML and DL interviews are explained in this book.
+
+
+5.Blogs :
+The following blogs can be read for a better understanding of useful concepts in the field of ML and DL:
+a.https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/ 
+b.http://colah.github.io/ (read blogs of sections named as Neural Networks , CNN ,RNN , Visualizing neural networks)
+c.https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+d.http://ruder.io/optimizing-gradient-descent/
+e.https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
+f.https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348
+g.https://machinelearningmastery.com/blog/ (for ml algos and their python implementations).
+
+
+This complete guide was based on my experience , there can be many other better resources which suit different individuals.
+This is certainly not the end of things and is probably the start of all the topics one can dive into and explore after completing the above path.
+And always remember GOOGLE is your friend.
+
+
+Thanks for reading
+Harshit Gupta
